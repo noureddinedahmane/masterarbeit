@@ -1,0 +1,17 @@
+package com.test
+
+import org.eclipse.emf.ecore.EPackage
+import com.test.test.TestPackage
+
+class TestNameSpace {
+	
+	private new() {
+	}
+	
+	// file extensions
+	public static final String FILE_EXTENSION = "test";
+	
+	// Test Namespaces
+	public static final EPackage ROOT_PACKAGE = TestPackage.eINSTANCE;
+	
+}

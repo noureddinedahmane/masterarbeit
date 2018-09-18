@@ -1,0 +1,7 @@
+package tools.vitruv.domains.mm
+
+class MmmDomainTest {
+	private static val TEST_NAME = "Test";
+	private var MmmDomain mmmDomain;
+	
+}

@@ -1,0 +1,10 @@
+package kieker.extention;
+
+
+public class Test {
+
+	public void compute() throws InterruptedException {
+		Thread.sleep(2000);
+	}
+	
+}

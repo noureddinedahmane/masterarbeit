@@ -1,0 +1,26 @@
+package kieker.extention;
+
+import java.nio.BufferUnderflowException;
+import java.nio.ByteBuffer;
+
+import kieker.common.record.controlflow.OperationExecutionRecord;
+import kieker.common.util.registry.IRegistry;
+
+public class CustomizedResponseTimeRecord extends OperationExecutionRecord{
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
+
+	public CustomizedResponseTimeRecord(ByteBuffer buffer, IRegistry<String> stringRegistry)
+			throws BufferUnderflowException {
+		super(buffer, stringRegistry);
+		// TODO Auto-generated constructor stub
+	}
+
+	
+	
+
+}

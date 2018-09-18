@@ -1,0 +1,21 @@
+package kieker.extention;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	System.out.println("starting....");
+    	
+    	Test test = new Test();
+    	//test.execute();
+    	
+    	String histName = InetAddress.getLocalHost().getHostName();
+    	
+    	System.out.println("Done!");
+    }
+}

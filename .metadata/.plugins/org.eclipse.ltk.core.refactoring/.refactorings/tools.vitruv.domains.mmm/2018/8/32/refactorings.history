@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;tools.vitruv.domains.mmm&apos;&#x0D;&#x0A;- Original project: &apos;tools.vitruv.domains.mmm&apos;&#x0D;&#x0A;- Original element: &apos;tools.vitruv.domains.mmm/src/tools.vitruv.domains.mmm.views&apos;" description="Delete element" element1="/src&lt;tools.vitruv.domains.mmm.views" element2="/src&lt;tools.vitruv.domains.mmm" element3="/src&lt;tools.vitruv.domains" element4="/src&lt;tools.vitruv" element5="/src&lt;tools" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1533489933820" subPackages="false" version="1.0"/>
+</session>

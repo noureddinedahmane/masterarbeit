@@ -1,0 +1,11 @@
+package kieker.extention;
+
+import java.util.concurrent.TimeUnit;
+
+public class Test {
+
+	public void compute() throws InterruptedException {
+		Thread.sleep(2000);
+	}
+	
+}

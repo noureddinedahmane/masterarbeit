@@ -1,0 +1,23 @@
+package com.test
+
+import tools.vitruv.framework.domains.AbstractVitruvDomain
+import com.test.TestNameSpace;
+import tools.vitruv.framework.tuid.TuidCalculatorAndResolver
+import tools.vitruv.framework.tuid.AttributeTuidCalculatorAndResolver
+
+class TestDomain extends AbstractVitruvDomain {
+	
+	public static final String METAMODEL_NAME = "Test";
+	
+	package new() {
+		super(METAMODEL_NAME, TestNameSpace.ROOT_PACKAGE, generateTuidCalculator(), TestNameSpace.FILE_EXTENSION);
+	}
+	
+	def protected static TuidCalculatorAndResolver generateTuidCalculator() {
+		return new AttributeTuidCalculatorAndResolver(TestNameSpace.METAMODEL_NAMESPACE, 
+			#[TestPackage.eINSTANCE.INamedElement_Name.name ]
+		);
+	}
+	
+	
+}

@@ -1,0 +1,7 @@
+package tools.vitruv.domains.mm
+
+import tools.vitruv.framework.domains.VitruvDomainProvider
+
+class MmmDomainProvider  implements VitruvDomainProvider<MmmDomain>{
+	
+}

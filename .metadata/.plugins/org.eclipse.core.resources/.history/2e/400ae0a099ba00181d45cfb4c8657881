@@ -1,0 +1,14 @@
+package kieker.extention;
+
+import kieker.monitoring.core.controller.IMonitoringController;
+import kieker.monitoring.core.controller.MonitoringController;
+
+public class CustomizedResponseTimeRecord {
+	
+	final static IMonitoringController MONITORING_CONTROLLER;
+	
+	public static void getMonitoringController() {
+		 MONITORING_CONTROLLER = MonitoringController.getInstance();
+	}
+
+}

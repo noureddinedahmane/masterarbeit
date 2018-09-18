@@ -1,0 +1,14 @@
+package tools.vitruv.domains.mm
+
+class MmmNameSpace {
+	
+	private new(){
+		
+	}
+	
+	// file extention
+	public static final String FILE_EXTENSION = "mmm";
+	
+	// MM Namespaces
+	public static final EPackage ROOT_PACKAGE = 
+}

@@ -1,0 +1,24 @@
+package kieker.extention;
+
+import java.nio.BufferUnderflowException;
+import java.nio.ByteBuffer;
+
+import kieker.common.record.AbstractMonitoringRecord;
+import kieker.common.record.IMonitoringRecord;
+import kieker.common.record.controlflow.OperationExecutionRecord;
+import kieker.common.util.registry.IRegistry;
+
+public class CustomizedResponseTimeRecord extends AbstractMonitoringRecord implements IMonitoringRecord.Factory, IMonitoringRecord.BinaryFactory{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 538065471740351778L;
+	
+
+
+}
+
+
+
+

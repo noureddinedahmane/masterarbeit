@@ -1,0 +1,17 @@
+package kieker.extention;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	Test test = new Test();
+    	test.execute();
+    	
+    	System.out.println("Done!");
+    }
+}

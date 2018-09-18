@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mmm
+Bundle-SymbolicName: tools.vitruv.domains.mmm;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.junit,
+ tools.vitruv.framework.metamodel;visibility:=reexport,
+ tools.vitruv.framework.tuid,
+ tools.vitruv.framework.util,
+ org.eclipse.app4mc.amalthea.model;visibility:=reexport,
+ com.google.guava,
+ org.eclipse.xtext.xbase.lib,
+ org.eclipse.xtend.lib,
+ org.eclipse.xtend.lib.macro,
+ tools.vitruv.extensions.emf,
+ org.eclipse.e4.ui.workbench;bundle-version="1.5.1",
+ MMM;bundle-version="0.1.0"
+Bundle-Vendor: vitruv.tools
+

@@ -1,0 +1,39 @@
+package kieker.extention;
+
+import kieker.common.record.controlflow.OperationExecutionRecord;
+
+public class Test {
+
+	public void compute() throws InterruptedException {
+		Thread.sleep(2000);
+	}
+	
+	
+	public void execute() {
+		
+		try {
+			
+			final long tin = CustomizedMonitoringController.getMonitoringController().getTimeSource().getTime();
+			
+			this.compute();
+			
+			final long tout = CustomizedMonitoringController.getMonitoringController().getTimeSource().getTime();
+			
+			final OperationExecutionRecord e = new OperationExecutionRecord(
+					"public void execute()",
+					OperationExecutionRecord.NO_SESSION_ID,
+					OperationExecutionRecord.NO_TRACE_ID,
+					tin, tout, "myHost",
+					OperationExecutionRecord.NO_EOI_ESS,
+					OperationExecutionRecord.NO_EOI_ESS);
+			
+			
+			
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+}

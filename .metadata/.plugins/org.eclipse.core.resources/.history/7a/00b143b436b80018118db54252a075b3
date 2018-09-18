@@ -1,0 +1,8 @@
+package sourcecode.instrumentation.instrumentationhelper;
+
+public class SourceCodeInstrumentation {
+	
+	public void execute(final ResourceDemandingBehaviour seff) {
+		
+	}
+}

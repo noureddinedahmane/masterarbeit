@@ -1,0 +1,15 @@
+package tools.vitruv.domains.mm
+
+import org.junit.Before
+import tools.vitruv.framework.tuid.TuidManager
+
+class MmmDomainTest {
+	private static val TEST_NAME = "Test";
+	private var MmmDomain mmmDomain;
+	
+	@Before
+	public def void setup() {
+		TuidManager.instance.reinitialize();
+	}
+	
+}

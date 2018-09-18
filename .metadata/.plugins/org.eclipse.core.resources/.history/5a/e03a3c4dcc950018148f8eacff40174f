@@ -1,0 +1,12 @@
+package com.test
+
+class TestDomain {
+	
+	public static final String METAMODEL_NAME = "Test";
+	
+	package new() {
+		super(METAMODEL_NAME, ROOT_PACKAGE, generateTuidCalculator(), FILE_EXTENSION);
+	}
+	
+	
+}

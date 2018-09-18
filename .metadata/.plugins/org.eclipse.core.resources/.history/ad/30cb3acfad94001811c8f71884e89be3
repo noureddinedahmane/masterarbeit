@@ -1,0 +1,19 @@
+package tools.vitruv.domains.mm
+
+import ma.mm.model.mMM.MMMPackage
+import org.eclipse.emf.ecore.EPackage
+
+class MmmNameSpace {
+	
+	private new(){
+		
+	}
+	
+	// file extention
+	public static final String FILE_EXTENSION = "mmm";
+	
+	// MM Namespaces
+	public static final EPackage ROOT_PACKAGE = MMMPackage.eINSTANCE;
+	public static final String METAMODEL_NAMESPACE = MMMPackage.eNS_URI;
+	
+}

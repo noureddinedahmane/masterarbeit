@@ -1,0 +1,14 @@
+package tools.vitruv.domains.mm
+
+import org.junit.Before
+
+class MmmDomainTest {
+	private static val TEST_NAME = "Test";
+	private var MmmDomain mmmDomain;
+	
+	@Before
+	public def void setup() {
+		
+	}
+	
+}

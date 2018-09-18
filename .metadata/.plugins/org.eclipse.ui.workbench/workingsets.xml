@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536936900181_1" label="vitruv-domains" name="vitruv-domains">
+<item elementID="=IMM" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=tools.vitruv.domains.mmm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MMM" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=tools.vitruv.domains.imm" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tools.vitruv.domains.mmm.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tools.vitruv.domains.imm.feature" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536937101984_3" label="block-refactoring" name="block-refactoring">
+<item elementID="=ObjectPrimitiveAttributeValues" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=blockrefactoring" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536937267880_7" label="sourcecode-instrumentation" name="sourcecode-instrumentation">
+<item elementID="=sourcecode.instrumentation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537201848626_7" label="kieker.extention" name="kieker.extention">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/extention" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1532883553189_0" label="Window Working Set" name="Aggregate for window 1532883553189"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1536937234235_6" label="Multiple Working Sets" name="Aggregate:block-refactoring:vitruv-domains:">
+<workingSet IMemento.internal.id="block-refactoring"/>
+<workingSet IMemento.internal.id="vitruv-domains"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537185437394_6" label="Multiple Working Sets" name="Aggregate:block-refactoring:sourcecode-instrumentation:vitruv-domains:">
+<workingSet IMemento.internal.id="block-refactoring"/>
+<workingSet IMemento.internal.id="sourcecode-instrumentation"/>
+<workingSet IMemento.internal.id="vitruv-domains"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537273134925_10" label="Multiple Working Sets" name="Aggregate:block-refactoring:kieker.extention:sourcecode-instrumentation:vitruv-domains:">
+<workingSet IMemento.internal.id="block-refactoring"/>
+<workingSet IMemento.internal.id="kieker.extention"/>
+<workingSet IMemento.internal.id="sourcecode-instrumentation"/>
+<workingSet IMemento.internal.id="vitruv-domains"/>
+</workingSet>
+<mruList name="vitruv-domains"/>
+</workingSetManager>

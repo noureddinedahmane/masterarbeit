@@ -1,0 +1,9 @@
+package kieker.extention;
+
+public class CustomizedResponseTimeRecord {
+	
+	public static void getMonitoringController() {
+		
+	}
+
+}

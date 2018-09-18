@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1533649768991" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature_3.13.8.v20170715-2257/" version="3.13.8.v20170715-2257">
+</feature>
+<feature id="org.eclipse.team.svn.revision.graph" url="features/org.eclipse.team.svn.revision.graph_4.0.0.I20160226-1700/" version="4.0.0.I20160226-1700">
+</feature>
+<feature id="edu.kit.ipd.sdq.commons.util.eclipse.feature" url="features/edu.kit.ipd.sdq.commons.util.eclipse.feature_1.2.0.201801311410/" version="1.2.0.201801311410">
+</feature>
+<feature id="tools.vitruv.applications.pcmjava.ejbtransformations.feature" url="features/tools.vitruv.applications.pcmjava.ejbtransformations.feature_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="tools.vitruv.applications.pcmjava.feature.source" url="features/tools.vitruv.applications.pcmjava.feature.source_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.eclipse.help.source" url="features/org.eclipse.help.source_2.2.104.v20180330-0640/" version="2.2.104.v20180330-0640">
+</feature>
+<feature id="org.palladiosimulator.monitorrepository.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.monitorrepository.feature_3.0.1.201709282210/" version="3.0.1.201709282210">
+</feature>
+<feature id="org.eclipse.cvs.source" url="features/org.eclipse.cvs.source_1.4.404.v20180330-0640/" version="1.4.404.v20180330-0640">
+</feature>
+<feature id="org.eclipse.egit" url="features/org.eclipse.egit_4.9.2.201712150930-r/" version="4.9.2.201712150930-r">
+</feature>
+<feature id="org.eclipse.wst.common_core.feature" url="features/org.eclipse.wst.common_core.feature_3.9.1.v201803221834/" version="3.9.1.v201803221834">
+</feature>
+<feature id="org.eclipse.papyrus.sysml14.feature" plugin-identifier="org.eclipse.papyrus.sysml14.ui" url="features/org.eclipse.papyrus.sysml14.feature_1.3.0.201806060119/" version="1.3.0.201806060119">
+</feature>
+<feature id="org.eclipse.mylyn.commons.identity" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons.identity_1.15.0.v20170411-1844/" version="1.15.0.v20170411-1844">
+</feature>
+<feature id="org.palladiosimulator.servicelevelobjective.source.feature" url="features/org.palladiosimulator.servicelevelobjective.source.feature_1.1.0.201709290951/" version="1.1.0.201709290951">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ocl" plugin-identifier="org.eclipse.sirius.common.ocl" url="features/org.eclipse.sirius.runtime.ocl_5.0.2.201709080927/" version="5.0.2.201709080927">
+</feature>
+<feature id="org.eclipse.tm.terminal.view.feature" plugin-identifier="org.eclipse.tm.terminal.view.core" url="features/org.eclipse.tm.terminal.view.feature_4.3.0.201706140544/" version="4.3.0.201706140544">
+</feature>
+<feature id="org.palladiosimulator.editors.tree.source.feature" url="features/org.palladiosimulator.editors.tree.source.feature_4.1.0.201709282218/" version="4.1.0.201709282218">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.ddl.feature" url="features/org.eclipse.datatools.sqldevtools.ddl.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.team.svn.mylyn" url="features/org.eclipse.team.svn.mylyn_4.0.0.I20160226-1700/" version="4.0.0.I20160226-1700">
+</feature>
+<feature id="org.eclipse.mylyn.commons.notifications" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons.notifications_1.15.0.v20170411-1844/" version="1.15.0.v20170411-1844">
+</feature>
+<feature id="org.eclipse.jst.ws.jaxws_userdoc.feature" url="features/org.eclipse.jst.ws.jaxws_userdoc.feature_1.0.402.v201503151903/" version="1.0.402.v201503151903">
+</feature>
+<feature id="tools.vitruv.domains.java.feature" url="features/tools.vitruv.domains.java.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.papyrus.infra.emf.feature" url="features/org.eclipse.papyrus.infra.emf.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.datatools.enablement.postgresql.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.postgresql.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="tools.vitruv.demo.familiespersons.feature.source" url="features/tools.vitruv.demo.familiespersons.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.emftext.commons.jdt" url="features/org.emftext.commons.jdt_1.4.1.v201207310007/" version="1.4.1.v201207310007">
+</feature>
+<feature id="de.uka.ipd.sdq.errorhandling.source.feature" url="features/de.uka.ipd.sdq.errorhandling.source.feature_1.4.0.201611171324/" version="1.4.0.201611171324">
+</feature>
+<feature id="org.palladiosimulator.simulizar.reconfiguration.qvto.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.simulizar.reconfiguration.qvto.feature_1.0.0.201709282222/" version="1.0.0.201709282222">
+</feature>
+<feature id="org.eclipse.papyrus.infra.nattable.feature" url="features/org.eclipse.papyrus.infra.nattable.feature_4.0.0.201805210649/" version="4.0.0.201805210649">
+</feature>
+<feature id="tools.vitruv.domains.amalthea.feature.source" url="features/tools.vitruv.domains.amalthea.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.somox.modisco.feature" url="features/org.somox.modisco.feature_1.1.0.201708221204/" version="1.1.0.201708221204">
+</feature>
+<feature id="org.eclipse.platform.source" url="features/org.eclipse.platform.source_4.7.3.v20180330-0640/" version="4.7.3.v20180330-0640">
+</feature>
+<feature id="org.palladiosimulator.protocom.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.protocom.feature_4.1.0.201709282233/" version="4.1.0.201709282233">
+</feature>
+<feature id="org.eclipse.papyrus.uml.alf.feature" url="features/org.eclipse.papyrus.uml.alf.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.pde.source" url="features/org.eclipse.pde.source_3.13.4.v20180330-0640/" version="3.13.4.v20180330-0640">
+</feature>
+<feature id="org.eclipse.datatools.enablement.jdbc.feature" plugin-identifier="org.eclipse.datatools.enablement.sybase" url="features/org.eclipse.datatools.enablement.jdbc.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.emf.mapping" url="features/org.eclipse.emf.mapping_2.9.0.v20170609-0928/" version="2.9.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.13.0.v20170609-0707/" version="2.13.0.v20170609-0707">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.3.2.v20171108-1343/" version="2.3.2.v20171108-1343">
+</feature>
+<feature id="de.uka.ipd.sdq.featuremodel.feature.model" url="features/de.uka.ipd.sdq.featuremodel.feature.model_2.1.1.201511051634/" version="2.1.1.201511051634">
+</feature>
+<feature id="org.palladiosimulator.simucom.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.simucom.feature_4.1.0.201709290901/" version="4.1.0.201709290901">
+</feature>
+<feature id="tools.vitruv.applications.pcmjava.ejbtransformations.feature.source" url="features/tools.vitruv.applications.pcmjava.ejbtransformations.feature.source_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.palladiosimulator.pcm.source.feature" url="features/org.palladiosimulator.pcm.source.feature_4.1.0.201709282114/" version="4.1.0.201709282114">
+</feature>
+<feature id="de.uka.ipd.sdq.stoex.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.stoex.feature_2.2.0.201611171324/" version="2.2.0.201611171324">
+</feature>
+<feature id="org.eclipse.papyrus.sdk.feature" plugin-identifier="org.eclipse.papyrus.sdk" url="features/org.eclipse.papyrus.sdk.feature_3.4.0.201805210649/" version="3.4.0.201805210649">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.results.feature" url="features/org.eclipse.datatools.sqldevtools.results.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="de.uka.ipd.sdq.identifier.source.feature" url="features/de.uka.ipd.sdq.identifier.source.feature_2.1.0.201611171324/" version="2.1.0.201611171324">
+</feature>
+<feature id="org.eclipse.mylyn.discovery" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.discovery_3.23.0.v20170411-1844/" version="3.23.0.v20170411-1844">
+</feature>
+<feature id="org.somox.modisco.source.feature" url="features/org.somox.modisco.source.feature_1.1.0.201708221204/" version="1.1.0.201708221204">
+</feature>
+<feature id="org.eclipse.datatools.enablement.mysql.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.mysql.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.e4.rcp.source" url="features/org.eclipse.e4.rcp.source_1.6.3.v20180329-0507/" version="1.6.3.v20180329-0507">
+</feature>
+<feature id="org.eclipse.gmf.runtime.thirdparty" url="features/org.eclipse.gmf.runtime.thirdparty_1.11.0.201706061437/" version="1.11.0.201706061437">
+</feature>
+<feature id="org.eclipse.wst.jsdt.chromium.debug.feature" plugin-identifier="org.eclipse.wst.jsdt.chromium.debug" url="features/org.eclipse.wst.jsdt.chromium.debug.feature_0.6.0.v201705091354/" version="0.6.0.v201705091354">
+</feature>
+<feature id="org.eclipse.emf.mwe2.language.sdk" url="features/org.eclipse.emf.mwe2.language.sdk_2.9.1.201705291011/" version="2.9.1.201705291011">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.4.1.v20170928-1405/" version="1.4.1.v20170928-1405">
+</feature>
+<feature id="org.eclipse.emf.mwe2.runtime.sdk" url="features/org.eclipse.emf.mwe2.runtime.sdk_2.9.1.201705291011/" version="2.9.1.201705291011">
+</feature>
+<feature id="tools.vitruv.applications.pcmumlcomponents.feature.source" url="features/tools.vitruv.applications.pcmumlcomponents.feature.source_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.eclipse.uml2.uml" url="features/org.eclipse.uml2.uml_5.3.0.v20170605-1616/" version="5.3.0.v20170605-1616">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.ssl.feature" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.0.v20170110-1317/" version="1.1.0.v20170110-1317">
+</feature>
+<feature id="tools.vitruv.extensions.integration.feature" url="features/tools.vitruv.extensions.integration.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.jst.ws.jaxws.feature" plugin-identifier="org.eclipse.jst.ws.jaxws.core" url="features/org.eclipse.jst.ws.jaxws.feature_1.2.300.v201701262158/" version="1.2.300.v201701262158">
+</feature>
+<feature id="org.emftext.language.java" url="features/org.emftext.language.java_1.4.1.v201805021921/" version="1.4.1.v201805021921">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.doc.user" url="features/org.eclipse.datatools.connectivity.doc.user_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.sqlbuilder.feature" url="features/org.eclipse.datatools.sqldevtools.sqlbuilder.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.mylyn.tasks.ide" plugin-identifier="org.eclipse.mylyn.tasks.core" url="features/org.eclipse.mylyn.tasks.ide_3.23.1.v20170623-0008/" version="3.23.1.v20170623-0008">
+</feature>
+<feature id="org.eclipse.userstorage" url="features/org.eclipse.userstorage_1.1.0.v20170526-1605/" version="1.1.0.v20170526-1605">
+</feature>
+<feature id="org.eclipse.emf.edit" url="features/org.eclipse.emf.edit_2.12.0.v20170609-0928/" version="2.12.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.mylyn.commons" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons_3.23.0.v20170503-0014/" version="3.23.0.v20170503-0014">
+</feature>
+<feature id="org.eclipse.jst.server_userdoc.feature" url="features/org.eclipse.jst.server_userdoc.feature_3.3.300.v201503102136/" version="3.3.300.v201503102136">
+</feature>
+<feature id="org.eclipse.mylyn.ide_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.ide_feature_3.23.0.v20170411-2108/" version="3.23.0.v20170411-2108">
+</feature>
+<feature id="org.eclipse.wst.json_ui.feature" plugin-identifier="org.eclipse.wst.json.ui" url="features/org.eclipse.wst.json_ui.feature_1.1.2.v201711071522/" version="1.1.2.v201711071522">
+</feature>
+<feature id="org.eclipse.emf.databinding.edit" url="features/org.eclipse.emf.databinding.edit_1.4.0.v20170609-0928/" version="1.4.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.papyrus.emf.facet.feature" url="features/org.eclipse.papyrus.emf.facet.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.palladiosimulator.probeframework.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.probeframework.feature_2.0.2.201606011737/" version="2.0.2.201606011737">
+</feature>
+<feature id="org.palladiosimulator.pcm.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.pcm.feature_4.1.0.201709282114/" version="4.1.0.201709282114">
+</feature>
+<feature id="org.eclipse.cft.server.core.feature" plugin-identifier="org.eclipse.cft.server.branding.core" url="features/org.eclipse.cft.server.core.feature_1.2.3.v201709130027/" version="1.2.3.v201709130027">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.oda.feature" plugin-identifier="org.eclipse.datatools.connectivity.oda" url="features/org.eclipse.datatools.connectivity.oda.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.scaledl.usageevolution.feature" url="features/org.scaledl.usageevolution.feature_1.0.0.201710032259/" version="1.0.0.201710032259">
+</feature>
+<feature id="org.palladiosimulator.reliability.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.reliability.feature_1.0.0.201511051309/" version="1.0.0.201511051309">
+</feature>
+<feature id="org.eclipse.papyrus.uml.properties.feature" url="features/org.eclipse.papyrus.uml.properties.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.wst.server_adapters.feature" url="features/org.eclipse.wst.server_adapters.feature_3.2.601.v201711302104/" version="3.2.601.v201711302104">
+</feature>
+<feature id="org.somox.feature" url="features/org.somox.feature_1.2.0.201708221204-7t9D7jcKtwk-312819332315/" version="1.2.0.201708221204-7t9D7jcKtwk-312819332315">
+</feature>
+<feature id="tools.vitruv.applications.pcmjava.pojotransformations.feature.source" url="features/tools.vitruv.applications.pcmjava.pojotransformations.feature.source_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="de.uka.ipd.sdq.workflow.feature.mdsd.source" url="features/de.uka.ipd.sdq.workflow.feature.mdsd.source_2.2.3.201709282207/" version="2.2.3.201709282207">
+</feature>
+<feature id="org.eclipse.team.svn" url="features/org.eclipse.team.svn_4.0.5.I20170425-1700/" version="4.0.5.I20170425-1700">
+</feature>
+<feature id="org.eclipse.papyrus.infra.ui.feature" url="features/org.eclipse.papyrus.infra.ui.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.emf.mapping.ui" url="features/org.eclipse.emf.mapping.ui_2.9.0.v20170609-0928/" version="2.9.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.rse.telnet" plugin-identifier="org.eclipse.rse.services.telnet" url="features/org.eclipse.rse.telnet_3.7.0.201704251225/" version="3.7.0.201704251225">
+</feature>
+<feature id="org.palladiosimulator.architecturaltemplates.examples.source.feature" url="features/org.palladiosimulator.architecturaltemplates.examples.source.feature_1.0.4.201709291146/" version="1.0.4.201709291146">
+</feature>
+<feature id="tools.vitruv.testutils.feature.source" url="features/tools.vitruv.testutils.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="tools.vitruv.extensions.changevisualization.feature" url="features/tools.vitruv.extensions.changevisualization.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="tools.vitruv.applications.umlclassumlcomponents.feature" url="features/tools.vitruv.applications.umlclassumlcomponents.feature_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.eclipse.datatools.enablement.ibm.feature" plugin-identifier="org.eclipse.datatools.enablement.ibm" url="features/org.eclipse.datatools.enablement.ibm.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.palladiosimulator.edp2.ui.source.feature" url="features/org.palladiosimulator.edp2.ui.source.feature_1.0.1.201608091414/" version="1.0.1.201608091414">
+</feature>
+<feature id="org.eclipse.papyrus.views.documentation.feature" url="features/org.eclipse.papyrus.views.documentation.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="org.palladiosimulator.simucom.source.feature" url="features/org.palladiosimulator.simucom.source.feature_4.1.0.201709290901/" version="4.1.0.201709290901">
+</feature>
+<feature id="de.uka.ipd.sdq.featuremodel.feature.model.source" url="features/de.uka.ipd.sdq.featuremodel.feature.model.source_2.1.1.201511051634/" version="2.1.1.201511051634">
+</feature>
+<feature id="org.eclipse.wst.ws_ui.feature" url="features/org.eclipse.wst.ws_ui.feature_3.8.1.v201803221834/" version="3.8.1.v201803221834">
+</feature>
+<feature id="org.eclipse.ecf.core.feature" url="features/org.eclipse.ecf.core.feature_1.4.0.v20170516-2248/" version="1.4.0.v20170516-2248">
+</feature>
+<feature id="org.eclipse.papyrus.infra.core.feature" url="features/org.eclipse.papyrus.infra.core.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="de.uka.ipd.sdq.errorhandling.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.errorhandling.feature_1.4.0.201611171324/" version="1.4.0.201611171324">
+</feature>
+<feature id="org.emftext.commons.antlr3_4_0" url="features/org.emftext.commons.antlr3_4_0_3.4.0.v201207310007/" version="3.4.0.v201207310007">
+</feature>
+<feature id="de.uka.ipd.sdq.sensorframework.source.feature" url="features/de.uka.ipd.sdq.sensorframework.source.feature_4.0.0.201511050954/" version="4.0.0.201511050954">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.feature" plugin-identifier="org.eclipse.datatools.connectivity" url="features/org.eclipse.datatools.connectivity.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.papyrus.infra.internationalization.feature" url="features/org.eclipse.papyrus.infra.internationalization.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="tools.vitruv.extensions.integration.feature.source" url="features/tools.vitruv.extensions.integration.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.papyrus.uml.ui.feature" url="features/org.eclipse.papyrus.uml.ui.feature_1.2.0.201805210649/" version="1.2.0.201805210649">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.application.tooladapter.simucom.source.feature" url="features/org.palladiosimulator.experimentautomation.application.tooladapter.simucom.source.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.eclipse.papyrus.uml.tools.feature" url="features/org.eclipse.papyrus.uml.tools.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="edu.kit.ipd.sdq.metamodels.families.feature" url="features/edu.kit.ipd.sdq.metamodels.families.feature_1.0.0.201711061644/" version="1.0.0.201711061644">
+</feature>
+<feature id="org.palladiosimulator.edp2.source.feature" url="features/org.palladiosimulator.edp2.source.feature_1.0.0.201608091414/" version="1.0.0.201608091414">
+</feature>
+<feature id="org.eclipse.sdk" url="features/org.eclipse.sdk_4.7.3.v20180330-0919/" version="4.7.3.v20180330-0919">
+</feature>
+<feature id="org.eclipse.xtext.xbase.lib" url="features/org.eclipse.xtext.xbase.lib_2.14.0.v20180522-1631/" version="2.14.0.v20180522-1631">
+</feature>
+<feature id="org.eclipse.jsf.feature" url="features/org.eclipse.jsf.feature_3.10.0.v201803271721/" version="3.10.0.v201803271721">
+</feature>
+<feature id="org.eclipse.gmf" url="features/org.eclipse.gmf_1.11.0.201706061437/" version="1.11.0.201706061437">
+</feature>
+<feature id="org.eclipse.buildship" plugin-identifier="org.eclipse.buildship.branding" url="features/org.eclipse.buildship_2.2.1.v20180125-1441/" version="2.2.1.v20180125-1441">
+</feature>
+<feature id="org.eclipse.wst.xml_core.feature" url="features/org.eclipse.wst.xml_core.feature_3.9.2.v201711080222/" version="3.9.2.v201711080222">
+</feature>
+<feature id="org.eclipse.datatools.common.doc.user" url="features/org.eclipse.datatools.common.doc.user_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.application.source.feature" url="features/org.palladiosimulator.experimentautomation.application.source.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.eclipse.rse.local" plugin-identifier="org.eclipse.rse.services.local" url="features/org.eclipse.rse.local_3.7.0.201704251225/" version="3.7.0.201704251225">
+</feature>
+<feature id="org.palladiosimulator.metricspec.source.feature" url="features/org.palladiosimulator.metricspec.source.feature_1.0.3.201709282208/" version="1.0.3.201709282208">
+</feature>
+<feature id="org.eclipse.datatools.enablement.hsqldb.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.hsqldb.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="tools.vitruv.extensions.constructionsimulation.feature.source" url="features/tools.vitruv.extensions.constructionsimulation.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui.source" url="features/org.eclipse.equinox.p2.user.ui.source_2.3.2.v20171108-1343/" version="2.3.2.v20171108-1343">
+</feature>
+<feature id="org.emftext.language.java.ui" url="features/org.emftext.language.java.ui_1.4.1.v201805021921/" version="1.4.1.v201805021921">
+</feature>
+<feature id="org.eclipse.papyrus.uml.modelexplorer.feature" url="features/org.eclipse.papyrus.uml.modelexplorer.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="tools.vitruv.domains.caex.feature" url="features/tools.vitruv.domains.caex.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="edu.kit.ipd.sdq.pcm.simulation.scheduler.exact.feature" plugin-identifier="org.palladiosimulator.branding" url="features/edu.kit.ipd.sdq.pcm.simulation.scheduler.exact.feature_4.1.0.201709290928/" version="4.1.0.201709290928">
+</feature>
+<feature id="org.eclipse.emf.common.source" url="features/org.eclipse.emf.common.source_2.13.0.v20170609-0707/" version="2.13.0.v20170609-0707">
+</feature>
+<feature id="org.palladiosimulator.edp2.ui.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.edp2.ui.feature_1.0.1.201608091414/" version="1.0.1.201608091414">
+</feature>
+<feature id="de.uka.ipd.sdq.units.source.feature" url="features/de.uka.ipd.sdq.units.source.feature_2.1.1.201611171324/" version="2.1.1.201611171324">
+</feature>
+<feature id="edu.kit.kastel.scbs.confidentiality.feature.source" url="features/edu.kit.kastel.scbs.confidentiality.feature.source_1.0.0.201712111027/" version="1.0.0.201712111027">
+</feature>
+<feature id="org.eclipse.emf.edit.ui" url="features/org.eclipse.emf.edit.ui_2.13.0.v20170609-0928/" version="2.13.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.7.3.v20180330-0640/" version="4.7.3.v20180330-0640">
+</feature>
+<feature id="org.eclipse.team.svn.nl1" url="features/org.eclipse.team.svn.nl1_4.0.0.I20160226-1700/" version="4.0.0.I20160226-1700">
+</feature>
+<feature id="edu.kit.ipd.sdq.metamodels.persons.feature" url="features/edu.kit.ipd.sdq.metamodels.persons.feature_1.0.0.201711061644/" version="1.0.0.201711061644">
+</feature>
+<feature id="tools.vitruv.applications.umljava.feature.source" url="features/tools.vitruv.applications.umljava.feature.source_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.eclipse.datatools.enablement.apache.derby.feature" plugin-identifier="org.eclipse.datatools.enablement.sybase" url="features/org.eclipse.datatools.enablement.apache.derby.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.app4mc.amalthea.models" url="features/org.eclipse.app4mc.amalthea.models_0.8.2.201710301147/" version="0.8.2.201710301147">
+</feature>
+<feature id="org.eclipse.papyrus.uml.diagram.feature" url="features/org.eclipse.papyrus.uml.diagram.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="tools.vitruv.domains.emfprofiles.feature.source" url="features/tools.vitruv.domains.emfprofiles.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="tools.vitruv.dsls.feature.source" url="features/tools.vitruv.dsls.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.feature" plugin-identifier="org.eclipse.datatools.sqltools.common.ui" url="features/org.eclipse.datatools.sqldevtools.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.emftext.commons.layout" url="features/org.emftext.commons.layout_1.4.1.v201207310007/" version="1.4.1.v201207310007">
+</feature>
+<feature id="org.eclipse.oomph.setup" url="features/org.eclipse.oomph.setup_1.8.0.v20170531-0903/" version="1.8.0.v20170531-0903">
+</feature>
+<feature id="tools.vitruv.applications.pcmjava.feature" url="features/tools.vitruv.applications.pcmjava.feature_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.palladiosimulator.probeframework.source.feature" url="features/org.palladiosimulator.probeframework.source.feature_2.0.2.201606011737/" version="2.0.2.201606011737">
+</feature>
+<feature id="tools.vitruv.demo.familiespersons.feature" url="features/tools.vitruv.demo.familiespersons.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.xtext.examples" url="features/org.eclipse.xtext.examples_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="tools.vitruv.applications.pcmumlcomponents.feature" url="features/tools.vitruv.applications.pcmumlcomponents.feature_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="de.uka.ipd.sdq.probfunction.source.feature" url="features/de.uka.ipd.sdq.probfunction.source.feature_2.1.1.201611171324/" version="2.1.1.201611171324">
+</feature>
+<feature id="org.eclipse.papyrus.infra.widget.feature" url="features/org.eclipse.papyrus.infra.widget.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="de.uka.ipd.sdq.featuremodel.feature.featureinstanceeditor" url="features/de.uka.ipd.sdq.featuremodel.feature.featureinstanceeditor_2.1.1.201511051634/" version="2.1.1.201511051634">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.7.3.v20180330-0640/" version="4.7.3.v20180330-0640">
+</feature>
+<feature id="org.eclipse.epp.logging.aeri.feature" url="features/org.eclipse.epp.logging.aeri.feature_2.0.7.v20170906-1327/" version="2.0.7.v20170906-1327">
+</feature>
+<feature id="org.eclipse.papyrus.infra.gmfdiag.feature" url="features/org.eclipse.papyrus.infra.gmfdiag.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="de.uka.ipd.sdq.dsexplore.source.feature" url="features/de.uka.ipd.sdq.dsexplore.source.feature_4.0.1.201709290946/" version="4.0.1.201709290946">
+</feature>
+<feature id="org.eclipse.emf.ecore.edit" url="features/org.eclipse.emf.ecore.edit_2.9.0.v20170609-0928/" version="2.9.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.papyrus.infra.architecture.feature" url="features/org.eclipse.papyrus.infra.architecture.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore" url="features/org.eclipse.emf.mapping.ecore_2.9.0.v20170609-0928/" version="2.9.0.v20170609-0928">
+</feature>
+<feature id="org.palladiosimulator.solver.source.feature" url="features/org.palladiosimulator.solver.source.feature_4.1.0.201709290912/" version="4.1.0.201709290912">
+</feature>
+<feature id="de.uka.ipd.sdq.sensorframework.visualisation.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.sensorframework.visualisation.feature_4.0.0.201511050954/" version="4.0.0.201511050954">
+</feature>
+<feature id="org.eclipse.mylyn.wikitext.editors_feature" plugin-identifier="org.eclipse.mylyn.wikitext" url="features/org.eclipse.mylyn.wikitext.editors_feature_3.0.19.201711172000/" version="3.0.19.201711172000">
+</feature>
+<feature id="org.eclipse.m2e.logback.feature" plugin-identifier="org.eclipse.m2e.logback.configuration" url="features/org.eclipse.m2e.logback.feature_1.8.3.20180227-2137/" version="1.8.3.20180227-2137">
+</feature>
+<feature id="org.eclipse.wst.xml_ui.feature" plugin-identifier="org.eclipse.wst.xml.ui" url="features/org.eclipse.wst.xml_ui.feature_3.9.2.v201803221834/" version="3.9.2.v201803221834">
+</feature>
+<feature id="org.eclipse.datatools.doc.user" url="features/org.eclipse.datatools.doc.user_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.emf" url="features/org.eclipse.emf_2.13.0.v20170609-0928/" version="2.13.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.rcp.source" url="features/org.eclipse.rcp.source_4.7.3.v20180330-0640/" version="4.7.3.v20180330-0640">
+</feature>
+<feature id="org.eclipse.epp.package.jee.feature" plugin-identifier="org.eclipse.epp.package.jee" url="features/org.eclipse.epp.package.jee.feature_4.7.3.20180405-1200/" version="4.7.3.20180405-1200">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.local.feature" url="features/org.eclipse.tm.terminal.connector.local.feature_4.3.0.201706140544/" version="4.3.0.201706140544">
+</feature>
+<feature id="org.palladiosimulator.thirdpartywrapper.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.thirdpartywrapper.feature_1.0.2.201709282218/" version="1.0.2.201709282218">
+</feature>
+<feature id="org.eclipse.draw2d" url="features/org.eclipse.draw2d_3.10.100.201606061308/" version="3.10.100.201606061308">
+</feature>
+<feature id="org.palladiosimulator.mdsdprofiles.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.mdsdprofiles.feature_1.0.1.201609191729/" version="1.0.1.201609191729">
+</feature>
+<feature id="tools.vitruv.domains.amalthea.feature" url="features/tools.vitruv.domains.amalthea.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.xtext.runtime" url="features/org.eclipse.xtext.runtime_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="org.eclipse.papyrus.views.references.feature" url="features/org.eclipse.papyrus.views.references.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.papyrus.infra.services.feature" url="features/org.eclipse.papyrus.infra.services.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.jst.webpageeditor.feature" url="features/org.eclipse.jst.webpageeditor.feature_2.9.0.v201803271721/" version="2.9.0.v201803271721">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.3.2.v20171108-1343/" version="1.3.2.v20171108-1343">
+</feature>
+<feature id="org.eclipse.jst.web_core.feature" url="features/org.eclipse.jst.web_core.feature_3.9.1.v201802152012/" version="3.9.1.v201802152012">
+</feature>
+<feature id="org.eclipse.xtext.ui" url="features/org.eclipse.xtext.ui_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="org.palladiosimulator.servicelevelobjective.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.servicelevelobjective.feature_1.1.0.201709290951/" version="1.1.0.201709290951">
+</feature>
+<feature id="org.eclipse.e4.core.tools.feature" url="features/org.eclipse.e4.core.tools.feature_4.7.0.v20170515-1617/" version="4.7.0.v20170515-1617">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature.source" url="features/org.eclipse.equinox.p2.rcp.feature.source_1.3.2.v20171108-1343/" version="1.3.2.v20171108-1343">
+</feature>
+<feature id="org.eclipse.pde" url="features/org.eclipse.pde_3.13.4.v20180330-0640/" version="3.13.4.v20180330-0640">
+</feature>
+<feature id="org.eclipse.xtext.redist" url="features/org.eclipse.xtext.redist_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.0.v20170110-1317/" version="1.1.0.v20170110-1317">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.parsers.feature" plugin-identifier="org.eclipse.datatools.sqltools.parsers.sql" url="features/org.eclipse.datatools.sqldevtools.parsers.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.wst.ws_userdoc.feature" url="features/org.eclipse.wst.ws_userdoc.feature_3.1.400.v201405061938/" version="3.1.400.v201405061938">
+</feature>
+<feature id="org.eclipse.mylyn.java_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.java_feature_3.23.0.v20170411-2108/" version="3.23.0.v20170411-2108">
+</feature>
+<feature id="de.uka.ipd.sdq.featuremodel.feature.featureinstanceeditor.source" url="features/de.uka.ipd.sdq.featuremodel.feature.featureinstanceeditor.source_2.1.1.201511051634/" version="2.1.1.201511051634">
+</feature>
+<feature id="org.eclipse.papyrus.doc.feature" url="features/org.eclipse.papyrus.doc.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.xtext.xtext.ui" url="features/org.eclipse.xtext.xtext.ui_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="org.eclipse.m2e.wtp.jaxrs.feature" plugin-identifier="org.eclipse.m2e.wtp.jaxrs" url="features/org.eclipse.m2e.wtp.jaxrs.feature_1.3.3.20170823-1905/" version="1.3.3.20170823-1905">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.ddlgen.feature" plugin-identifier="org.eclipse.datatools.sqltools.ddlgen.ui" url="features/org.eclipse.datatools.sqldevtools.ddlgen.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="de.uka.ipd.sdq.dialogs.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.dialogs.feature_1.4.0.201611171324/" version="1.4.0.201611171324">
+</feature>
+<feature id="org.palladiosimulator.metricspec.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.metricspec.feature_1.0.3.201709282208/" version="1.0.3.201709282208">
+</feature>
+<feature id="org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature" url="features/org.eclipse.jst.jsf.apache.trinidad.tagsupport.feature_2.6.1.v201802231403/" version="2.6.1.v201802231403">
+</feature>
+<feature id="org.eclipse.sirius.runtime" plugin-identifier="org.eclipse.sirius" url="features/org.eclipse.sirius.runtime_5.1.1.201801311428/" version="5.1.1.201801311428">
+</feature>
+<feature id="org.eclipse.wst.server_userdoc.feature" url="features/org.eclipse.wst.server_userdoc.feature_3.3.300.v201405011426/" version="3.3.300.v201405011426">
+</feature>
+<feature id="org.eclipse.emf.mwe2.launcher.source" url="features/org.eclipse.emf.mwe2.launcher.source_2.9.1.201705291011/" version="2.9.1.201705291011">
+</feature>
+<feature id="org.eclipse.mylyn.monitor" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.monitor_3.23.0.v20170411-1844/" version="3.23.0.v20170411-1844">
+</feature>
+<feature id="de.uka.ipd.sdq.workflow.feature.core" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.workflow.feature.core_2.2.3.201709282207/" version="2.2.3.201709282207">
+</feature>
+<feature id="org.eclipse.tm.terminal.control.feature" plugin-identifier="org.eclipse.tm.terminal.control" url="features/org.eclipse.tm.terminal.control.feature_4.3.0.201706140544/" version="4.3.0.201706140544">
+</feature>
+<feature id="org.eclipse.app4mc.docu" url="features/org.eclipse.app4mc.docu_0.8.2.201710301147/" version="0.8.2.201710301147">
+</feature>
+<feature id="edu.kit.ipd.sdq.commons.util.mdsdprofiles.feature" url="features/edu.kit.ipd.sdq.commons.util.mdsdprofiles.feature_1.2.0.201801311410/" version="1.2.0.201801311410">
+</feature>
+<feature id="org.palladiosimulator.simulation.abstractsimengine.ssj.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.simulation.abstractsimengine.ssj.feature_4.0.0.201511051309/" version="4.0.0.201511051309">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature.source" url="features/org.eclipse.equinox.p2.extras.feature.source_1.3.1.v20170928-1405/" version="1.3.1.v20170928-1405">
+</feature>
+<feature id="org.eclipse.tm.terminal.feature" plugin-identifier="org.eclipse.tm.terminal.view.core" url="features/org.eclipse.tm.terminal.feature_4.3.0.201706140544/" version="4.3.0.201706140544">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore.ui" url="features/org.eclipse.emf.codegen.ecore.ui_2.13.0.v20170609-0928/" version="2.13.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.emf.ecore.editor" url="features/org.eclipse.emf.ecore.editor_2.13.0.v20170609-0928/" version="2.13.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.mylyn.context_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.context_feature_3.23.0.v20170414-0629/" version="3.23.0.v20170414-0629">
+</feature>
+<feature id="tools.vitruv.dsls.feature" url="features/tools.vitruv.dsls.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.wst.json_core.feature" url="features/org.eclipse.wst.json_core.feature_1.1.2.v201711071522/" version="1.1.2.v201711071522">
+</feature>
+<feature id="org.emftext.language.java.jdt" url="features/org.emftext.language.java.jdt_1.4.1.v201805021921/" version="1.4.1.v201805021921">
+</feature>
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.2.104.v20180330-0640/" version="2.2.104.v20180330-0640">
+</feature>
+<feature id="org.eclipse.papyrus.infra.emf.expressions.feature" url="features/org.eclipse.papyrus.infra.emf.expressions.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.xtend.source" url="features/org.eclipse.xtend.source_2.2.0.v201605260315/" version="2.2.0.v201605260315">
+</feature>
+<feature id="org.eclipse.mylyn.bugzilla_feature" plugin-identifier="org.eclipse.mylyn.tasks.core" url="features/org.eclipse.mylyn.bugzilla_feature_3.23.1.v20170623-0008/" version="3.23.1.v20170623-0008">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ide.ui" plugin-identifier="org.eclipse.sirius.common.ui" url="features/org.eclipse.sirius.runtime.ide.ui_5.1.1.201801311428/" version="5.1.1.201801311428">
+</feature>
+<feature id="org.eclipse.jpt.dbws.eclipselink.feature" plugin-identifier="org.eclipse.jpt.dbws.eclipselink.branding" url="features/org.eclipse.jpt.dbws.eclipselink.feature_1.2.201.v201803161350/" version="1.2.201.v201803161350">
+</feature>
+<feature id="org.eclipse.mylyn_feature" plugin-identifier="org.eclipse.mylyn.tasks.core" url="features/org.eclipse.mylyn_feature_3.23.1.v20170623-0008/" version="3.23.1.v20170623-0008">
+</feature>
+<feature id="tools.vitruv.framework.feature" url="features/tools.vitruv.framework.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.wst.ws_wsdl15.feature" url="features/org.eclipse.wst.ws_wsdl15.feature_1.5.400.v201405061938/" version="1.5.400.v201405061938">
+</feature>
+<feature id="org.eclipse.ecf.core.ssl.feature" url="features/org.eclipse.ecf.core.ssl.feature_1.1.0.v20170110-1317/" version="1.1.0.v20170110-1317">
+</feature>
+<feature id="org.eclipse.gef" url="features/org.eclipse.gef_3.11.0.201606061308/" version="3.11.0.201606061308">
+</feature>
+<feature id="org.eclipse.jpt.jpa.feature" plugin-identifier="org.eclipse.jpt.jpa.branding" url="features/org.eclipse.jpt.jpa.feature_3.5.101.v201803161350/" version="3.5.101.v201803161350">
+</feature>
+<feature id="org.eclipse.oomph.p2" url="features/org.eclipse.oomph.p2_1.8.0.v20170410-0909/" version="1.8.0.v20170410-0909">
+</feature>
+<feature id="tools.vitruv.domains.confidentiality.feature.source" url="features/tools.vitruv.domains.confidentiality.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.datatools.enablement.sqlite.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.sqlite.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.emf.codegen.ui" url="features/org.eclipse.emf.codegen.ui_2.8.0.v20170609-0928/" version="2.8.0.v20170609-0928">
+</feature>
+<feature id="edu.kit.ipd.sdq.eventsim.feature" url="features/edu.kit.ipd.sdq.eventsim.feature_1.0.0.201712011005/" version="1.0.0.201712011005">
+</feature>
+<feature id="org.eclipse.papyrus.uml.feature" url="features/org.eclipse.papyrus.uml.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.emf.converter" url="features/org.eclipse.emf.converter_2.12.0.v20170609-0928/" version="2.12.0.v20170609-0928">
+</feature>
+<feature id="org.palladiosimulator.recorderframework.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.recorderframework.feature_2.1.1.201603031355/" version="2.1.1.201603031355">
+</feature>
+<feature id="org.eclipse.recommenders.rcp.feature" plugin-identifier="org.eclipse.recommenders.rcp" url="features/org.eclipse.recommenders.rcp.feature_2.5.2.v20180401-1226/" version="2.5.2.v20180401-1226">
+</feature>
+<feature id="org.palladiosimulator.commons.source.feature" url="features/org.palladiosimulator.commons.source.feature_1.5.3.201611171324-7D7P1cBtalw7QCJsJJJz-JXQe/" version="1.5.3.201611171324-7D7P1cBtalw7QCJsJJJz-JXQe">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.feature" url="features/org.eclipse.ecf.filetransfer.feature_3.13.8.v20170715-2257/" version="3.13.8.v20170715-2257">
+</feature>
+<feature id="org.eclipse.papyrus.uml.m2m.qvto.feature" url="features/org.eclipse.papyrus.uml.m2m.qvto.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.emf.workspace" url="features/org.eclipse.emf.workspace_1.6.0.v20120328-0001-37708s734E377I3B4C2/" version="1.6.0.v20120328-0001-37708s734E377I3B4C2">
+</feature>
+<feature id="org.eclipse.datatools.enablement.oda.designer.feature" plugin-identifier="org.eclipse.datatools.enablement.oda.xml.ui" url="features/org.eclipse.datatools.enablement.oda.designer.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.palladiosimulator.editors.tree.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.editors.tree.feature_4.1.0.201709282218/" version="4.1.0.201709282218">
+</feature>
+<feature id="org.eclipse.wst.web_core.feature" url="features/org.eclipse.wst.web_core.feature_3.9.2.v201803221834/" version="3.9.2.v201803221834">
+</feature>
+<feature id="org.eclipse.emf.ecore.source" url="features/org.eclipse.emf.ecore.source_2.13.0.v20170609-0707/" version="2.13.0.v20170609-0707">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.oda.designer.core.feature" plugin-identifier="org.eclipse.datatools.connectivity.oda.design.ui" url="features/org.eclipse.datatools.connectivity.oda.designer.core.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.papyrus.views.modelexplorer.feature" url="features/org.eclipse.papyrus.views.modelexplorer.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.emftext.access" url="features/org.emftext.access_1.4.1.v201207310007/" version="1.4.1.v201207310007">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature.source" url="features/org.eclipse.equinox.p2.core.feature.source_1.4.1.v20170928-1405/" version="1.4.1.v20170928-1405">
+</feature>
+<feature id="org.eclipse.xtend.sdk" plugin-identifier="org.eclipse.xtend.ide" url="features/org.eclipse.xtend.sdk_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="edu.kit.ipd.sdq.metamodels.asem.feature" url="features/edu.kit.ipd.sdq.metamodels.asem.feature_0.2.0.201801301658/" version="0.2.0.201801301658">
+</feature>
+<feature id="org.eclipse.m2e.wtp.jsf.feature" plugin-identifier="org.eclipse.m2e.wtp.jsf" url="features/org.eclipse.m2e.wtp.jsf.feature_1.3.3.20170823-1905/" version="1.3.3.20170823-1905">
+</feature>
+<feature id="org.eclipse.papyrus.editor.feature" url="features/org.eclipse.papyrus.editor.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.examples.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.experimentautomation.examples.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.eclipse.wst.common.fproj" plugin-identifier="org.eclipse.wst.common.project.facet.core" url="features/org.eclipse.wst.common.fproj_3.7.1.v201707201954/" version="3.7.1.v201707201954">
+</feature>
+<feature id="edu.kit.ipd.sdq.commons.util.emf.feature" url="features/edu.kit.ipd.sdq.commons.util.emf.feature_1.2.0.201801311410/" version="1.2.0.201801311410">
+</feature>
+<feature id="org.eclipse.datatools.intro" url="features/org.eclipse.datatools.intro_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.emf.compare" url="features/org.eclipse.emf.compare_3.2.1.201608311750/" version="3.2.1.201608311750">
+</feature>
+<feature id="org.eclipse.jst.common.fproj.enablement.jdt" plugin-identifier="org.eclipse.jst.common.project.facet.core" url="features/org.eclipse.jst.common.fproj.enablement.jdt_3.10.0.v201803211504/" version="3.10.0.v201803211504">
+</feature>
+<feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_4.9.2.201712150930-r/" version="4.9.2.201712150930-r">
+</feature>
+<feature id="tools.vitruv.extensions.changevisualization.feature.source" url="features/tools.vitruv.extensions.changevisualization.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.mylyn.wikitext_feature" plugin-identifier="org.eclipse.mylyn.wikitext" url="features/org.eclipse.mylyn.wikitext_feature_3.0.19.201711172000/" version="3.0.19.201711172000">
+</feature>
+<feature id="org.eclipse.jpt.jaxb.feature" plugin-identifier="org.eclipse.jpt.jaxb.branding" url="features/org.eclipse.jpt.jaxb.feature_1.5.100.v201803012210/" version="1.5.100.v201803012210">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore.editor" url="features/org.eclipse.emf.mapping.ecore.editor_2.10.0.v20170609-0928/" version="2.10.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.datatools.enablement.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.datatools.enablement.jdt.feature" plugin-identifier="org.eclipse.datatools.enablement.jdt.classpath" url="features/org.eclipse.datatools.enablement.jdt.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.palladiosimulator.editors.sirius.source.feature" url="features/org.palladiosimulator.editors.sirius.source.feature_4.1.0.201709282155/" version="4.1.0.201709282155">
+</feature>
+<feature id="org.eclipse.jst.server_adapters.ext.feature" url="features/org.eclipse.jst.server_adapters.ext.feature_3.3.601.v201711301708/" version="3.3.601.v201711301708">
+</feature>
+<feature id="org.eclipse.datatools.enablement.msft.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.msft.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="de.uka.ipd.sdq.featuremodel.feature.config.source" url="features/de.uka.ipd.sdq.featuremodel.feature.config.source_2.1.1.201511051634/" version="2.1.1.201511051634">
+</feature>
+<feature id="org.eclipse.papyrus.uml.internationalization.feature" url="features/org.eclipse.papyrus.uml.internationalization.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.m2e.wtp.jpa.feature" plugin-identifier="org.eclipse.m2e.wtp.jpa" url="features/org.eclipse.m2e.wtp.jpa.feature_1.3.3.20170823-1905/" version="1.3.3.20170823-1905">
+</feature>
+<feature id="edu.kit.ipd.sdq.commons.util.java.feature.source" url="features/edu.kit.ipd.sdq.commons.util.java.feature.source_1.2.0.201801311410/" version="1.2.0.201801311410">
+</feature>
+<feature id="edu.kit.kastel.scbs.confidentiality.feature" url="features/edu.kit.kastel.scbs.confidentiality.feature_1.0.0.201712111027/" version="1.0.0.201712111027">
+</feature>
+<feature id="tools.vitruv.domains.confidentiality.feature" url="features/tools.vitruv.domains.confidentiality.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.jdt.source" url="features/org.eclipse.jdt.source_3.13.4.v20180330-0919/" version="3.13.4.v20180330-0919">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore" url="features/org.eclipse.emf.codegen.ecore_2.13.0.v20170609-0928/" version="2.13.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.m2e.feature" plugin-identifier="org.eclipse.m2e.core" url="features/org.eclipse.m2e.feature_1.8.3.20180227-2137/" version="1.8.3.20180227-2137">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.experimentautomation.feature_1.0.1.201709282123/" version="1.0.1.201709282123">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.application.tooladapter.simulizar.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.experimentautomation.application.tooladapter.simulizar.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.eclipse.wst.server_core.feature" url="features/org.eclipse.wst.server_core.feature_3.3.700.v201705172051/" version="3.3.700.v201705172051">
+</feature>
+<feature id="de.uka.ipd.sdq.statistics.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.statistics.feature_1.4.0.201611171324/" version="1.4.0.201611171324">
+</feature>
+<feature id="tools.vitruv.extensions.dslsruntime.feature.source" url="features/tools.vitruv.extensions.dslsruntime.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.papyrus.infra.feature" url="features/org.eclipse.papyrus.infra.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.xtext.docs" url="features/org.eclipse.xtext.docs_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="tools.vitruv.domains.asem.feature.source" url="features/tools.vitruv.domains.asem.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="de.uka.ipd.sdq.featuremodel.feature.config" url="features/de.uka.ipd.sdq.featuremodel.feature.config_2.1.1.201511051634/" version="2.1.1.201511051634">
+</feature>
+<feature id="org.eclipse.wst.common_ui.feature" url="features/org.eclipse.wst.common_ui.feature_3.9.1.v201803221834/" version="3.9.1.v201803221834">
+</feature>
+<feature id="de.uka.ipd.sdq.units.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.units.feature_2.1.1.201611171324/" version="2.1.1.201611171324">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.data.feature" url="features/org.eclipse.datatools.sqldevtools.data.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.mylyn.team_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.team_feature_3.23.0.v20170411-2108/" version="3.23.0.v20170411-2108">
+</feature>
+<feature id="org.emftext.sdk" url="features/org.emftext.sdk_1.4.1.v201207310007/" version="1.4.1.v201207310007">
+</feature>
+<feature id="tools.vitruv.domains.java.feature.source" url="features/tools.vitruv.domains.java.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.emf.common.ui" url="features/org.eclipse.emf.common.ui_2.12.0.v20170609-0928/" version="2.12.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.wst.jsdt.nodejs.feature" plugin-identifier="org.eclipse.wst.jsdt.nodejs" url="features/org.eclipse.wst.jsdt.nodejs.feature_1.1.0.v201803202007/" version="1.1.0.v201803202007">
+</feature>
+<feature id="org.eclipse.sirius.runtime.acceleo" plugin-identifier="org.eclipse.sirius.common.acceleo.mtl" url="features/org.eclipse.sirius.runtime.acceleo_5.0.2.201709080927/" version="5.0.2.201709080927">
+</feature>
+<feature id="org.eclipse.papyrus.views.search.feature" url="features/org.eclipse.papyrus.views.search.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.wst.web_userdoc.feature" url="features/org.eclipse.wst.web_userdoc.feature_3.9.2.v201710252304/" version="3.9.2.v201710252304">
+</feature>
+<feature id="org.palladiosimulator.editors.sirius.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.editors.sirius.feature_4.1.0.201709282155/" version="4.1.0.201709282155">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.application.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.experimentautomation.application.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.oda.designer.feature" plugin-identifier="org.eclipse.datatools.connectivity.oda.design.ui" url="features/org.eclipse.datatools.connectivity.oda.designer.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="tools.vitruv.applications.pcmjava.pojotransformations.feature" url="features/tools.vitruv.applications.pcmjava.pojotransformations.feature_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.eclipse.papyrus.uml.architecture.feature" url="features/org.eclipse.papyrus.uml.architecture.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.application.tooladapter.simulizar.source.feature" url="features/org.palladiosimulator.experimentautomation.application.tooladapter.simulizar.source.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.palladiosimulator.editors.commons.source.feature" url="features/org.palladiosimulator.editors.commons.source.feature_2.1.1.201709282144/" version="2.1.1.201709282144">
+</feature>
+<feature id="tools.vitruv.domains.emfprofiles.feature" url="features/tools.vitruv.domains.emfprofiles.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="tools.vitruv.framework.feature.source" url="features/tools.vitruv.framework.feature.source_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="tools.vitruv.testutils.feature" url="features/tools.vitruv.testutils.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.gmf.runtime.notation" url="features/org.eclipse.gmf.runtime.notation_1.11.0.201706061354/" version="1.11.0.201706061354">
+</feature>
+<feature id="org.eclipse.wst.server_ui.feature" url="features/org.eclipse.wst.server_ui.feature_3.3.700.v201711152154/" version="3.3.700.v201711152154">
+</feature>
+<feature id="org.eclipse.rse.core" url="features/org.eclipse.rse.core_3.7.3.201704251225/" version="3.7.3.201704251225">
+</feature>
+<feature id="org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature" url="features/org.eclipse.datatools.sqldevtools.schemaobjecteditor.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.jpt.common.eclipselink.feature" plugin-identifier="org.eclipse.jpt.common.eclipselink.branding" url="features/org.eclipse.jpt.common.eclipselink.feature_1.3.200.v201803012210/" version="1.3.200.v201803012210">
+</feature>
+<feature id="tools.vitruv.domains.caex.feature.source" url="features/tools.vitruv.domains.caex.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="tools.vitruv.domains.uml.feature" url="features/tools.vitruv.domains.uml.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="tools.vitruv.extensions.dslsruntime.feature" url="features/tools.vitruv.extensions.dslsruntime.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="org.eclipse.wst.jsdt.feature" plugin-identifier="org.eclipse.wst.jsdt.ui" url="features/org.eclipse.wst.jsdt.feature_2.1.1.v201803202007/" version="2.1.1.v201803202007">
+</feature>
+<feature id="org.eclipse.papyrus.infra.gmfdiag.css.feature" url="features/org.eclipse.papyrus.infra.gmfdiag.css.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.sirius.runtime.aql" plugin-identifier="org.eclipse.sirius.common.acceleo.aql" url="features/org.eclipse.sirius.runtime.aql_5.1.1.201801311428/" version="5.1.1.201801311428">
+</feature>
+<feature id="tools.vitruv.domains.pcm.feature" url="features/tools.vitruv.domains.pcm.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.ssh.feature" plugin-identifier="org.eclipse.tm.terminal.ssh" url="features/org.eclipse.tm.terminal.connector.ssh.feature_4.3.0.201706140544/" version="4.3.0.201706140544">
+</feature>
+<feature id="org.somox.source.feature" url="features/org.somox.source.feature_1.2.0.201708221204-7t9D7jcKtwk-312819332315/" version="1.2.0.201708221204-7t9D7jcKtwk-312819332315">
+</feature>
+<feature id="de.uka.ipd.sdq.statistics.source.feature" url="features/de.uka.ipd.sdq.statistics.source.feature_1.4.0.201611171324/" version="1.4.0.201611171324">
+</feature>
+<feature id="org.eclipse.wst.web_ui.feature" plugin-identifier="org.eclipse.wst.web.ui" url="features/org.eclipse.wst.web_ui.feature_3.9.2.v201803221834/" version="3.9.2.v201803221834">
+</feature>
+<feature id="org.eclipse.rse" url="features/org.eclipse.rse_3.7.3.201704251225/" version="3.7.3.201704251225">
+</feature>
+<feature id="edu.kit.ipd.sdq.pcm.simulation.scheduler.exact.source.feature" url="features/edu.kit.ipd.sdq.pcm.simulation.scheduler.exact.source.feature_4.1.0.201709290928/" version="4.1.0.201709290928">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.telnet.feature" url="features/org.eclipse.tm.terminal.connector.telnet.feature_4.3.0.201706140544/" version="4.3.0.201706140544">
+</feature>
+<feature id="tools.vitruv.domains.uml.feature.source" url="features/tools.vitruv.domains.uml.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.palladiosimulator.simulation.abstractsimengine.ssj.source.feature" url="features/org.palladiosimulator.simulation.abstractsimengine.ssj.source.feature_4.0.0.201511051309/" version="4.0.0.201511051309">
+</feature>
+<feature id="org.eclipse.datatools.sqltools.doc.user" url="features/org.eclipse.datatools.sqltools.doc.user_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.palladiosimulator.editors.gmf.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.editors.gmf.feature_4.1.0.201709282147/" version="4.1.0.201709282147">
+</feature>
+<feature id="org.eclipse.emf.transaction" url="features/org.eclipse.emf.transaction_1.11.0.201706061339/" version="1.11.0.201706061339">
+</feature>
+<feature id="org.palladiosimulator.monitorrepository.source.feature" url="features/org.palladiosimulator.monitorrepository.source.feature_3.0.1.201709282210/" version="3.0.1.201709282210">
+</feature>
+<feature id="org.eclipse.m2e.wtp.feature" plugin-identifier="org.eclipse.m2e.wtp" url="features/org.eclipse.m2e.wtp.feature_1.3.3.20170823-1905/" version="1.3.3.20170823-1905">
+</feature>
+<feature id="org.eclipse.xtext.xbase" url="features/org.eclipse.xtext.xbase_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="org.palladiosimulator.architecturaltemplates.source.feature" url="features/org.palladiosimulator.architecturaltemplates.source.feature_1.1.0.201709291146/" version="1.1.0.201709291146">
+</feature>
+<feature id="tools.vitruv.extensions.constructionsimulation.feature" url="features/tools.vitruv.extensions.constructionsimulation.feature_0.2.0.201807181442/" version="0.2.0.201807181442">
+</feature>
+<feature id="de.uka.ipd.sdq.identifier.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.identifier.feature_2.1.0.201611171324/" version="2.1.0.201611171324">
+</feature>
+<feature id="org.eclipse.jpt.common.feature" plugin-identifier="org.eclipse.jpt.common.branding" url="features/org.eclipse.jpt.common.feature_1.5.100.v201803012210/" version="1.5.100.v201803012210">
+</feature>
+<feature id="org.eclipse.jst.enterprise_userdoc.feature" url="features/org.eclipse.jst.enterprise_userdoc.feature_3.6.0.v201612121628/" version="3.6.0.v201612121628">
+</feature>
+<feature id="tools.vitruv.domains.asem.feature" url="features/tools.vitruv.domains.asem.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.cvs" url="features/org.eclipse.cvs_1.4.404.v20180330-0640/" version="1.4.404.v20180330-0640">
+</feature>
+<feature id="org.palladiosimulator.protocom.javaee.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.protocom.javaee.feature_1.0.0.201709282233/" version="1.0.0.201709282233">
+</feature>
+<feature id="org.eclipse.jpt.jaxb.eclipselink.feature" plugin-identifier="org.eclipse.jpt.jaxb.eclipselink.branding" url="features/org.eclipse.jpt.jaxb.eclipselink.feature_1.4.201.v201803161350/" version="1.4.201.v201803161350">
+</feature>
+<feature id="org.palladiosimulator.commons.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.commons.feature_1.5.3.201611171324-7D7P1cBtalw7QCJsJJJz-JXQe/" version="1.5.3.201611171324-7D7P1cBtalw7QCJsJJJz-JXQe">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.ssl.feature.source" url="features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature.source_1.1.0.v20170110-1317/" version="1.1.0.v20170110-1317">
+</feature>
+<feature id="org.eclipse.wst.xml_userdoc.feature" url="features/org.eclipse.wst.xml_userdoc.feature_3.9.2.v201711071522/" version="3.9.2.v201711071522">
+</feature>
+<feature id="org.palladiosimulator.solver.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.solver.feature_4.1.0.201709290912/" version="4.1.0.201709290912">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.httpclient4.feature.source" url="features/org.eclipse.ecf.filetransfer.httpclient4.feature.source_3.13.8.v20170715-2257/" version="3.13.8.v20170715-2257">
+</feature>
+<feature id="org.palladiosimulator.simulizar.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.simulizar.feature_2.1.0.201709282222-8h_SEFbcPueBA312721262539/" version="2.1.0.201709282222-8h_SEFbcPueBA312721262539">
+</feature>
+<feature id="org.eclipse.jst.server_ui.feature" url="features/org.eclipse.jst.server_ui.feature_3.4.300.v201709251835/" version="3.4.300.v201709251835">
+</feature>
+<feature id="org.palladiosimulator.architecturaltemplates.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.architecturaltemplates.feature_1.1.0.201709291146/" version="1.1.0.201709291146">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.examples.source.feature" url="features/org.palladiosimulator.experimentautomation.examples.source.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.palladiosimulator.architecturaltemplates.examples.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.architecturaltemplates.examples.feature_1.0.4.201709291146/" version="1.0.4.201709291146">
+</feature>
+<feature id="de.uka.ipd.sdq.probfunction.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.probfunction.feature_2.1.1.201611171324/" version="2.1.1.201611171324">
+</feature>
+<feature id="org.eclipse.emf.compare.ide.ui" url="features/org.eclipse.emf.compare.ide.ui_3.2.1.201608311750/" version="3.2.1.201608311750">
+</feature>
+<feature id="org.palladiosimulator.protocom.source.feature" url="features/org.palladiosimulator.protocom.source.feature_4.1.0.201709282233/" version="4.1.0.201709282233">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.13.4.v20180330-0919/" version="3.13.4.v20180330-0919">
+</feature>
+<feature id="org.palladiosimulator.measurementframework.source.feature" url="features/org.palladiosimulator.measurementframework.source.feature_1.0.1.201606011729/" version="1.0.1.201606011729">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.13.0.v20170609-0707/" version="2.13.0.v20170609-0707">
+</feature>
+<feature id="org.eclipse.xtend.dependencies.source" url="features/org.eclipse.xtend.dependencies.source_2.2.0.v201605260315/" version="2.2.0.v201605260315">
+</feature>
+<feature id="org.palladiosimulator.editors.gmf.source.feature" url="features/org.palladiosimulator.editors.gmf.source.feature_4.1.0.201709282147/" version="4.1.0.201709282147">
+</feature>
+<feature id="org.eclipse.papyrus.uml.diagram.css.feature" url="features/org.eclipse.papyrus.uml.diagram.css.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.egit.mylyn" plugin-identifier="org.eclipse.egit" url="features/org.eclipse.egit.mylyn_4.9.2.201712150930-r/" version="4.9.2.201712150930-r">
+</feature>
+<feature id="org.eclipse.sirius.runtime.ide.eef" plugin-identifier="org.eclipse.sirius.eef.adapters" url="features/org.eclipse.sirius.runtime.ide.eef_5.1.1.201801311428/" version="5.1.1.201801311428">
+</feature>
+<feature id="org.eclipse.datatools.enablement.sybase.feature" plugin-identifier="org.eclipse.datatools.enablement.sybase" url="features/org.eclipse.datatools.enablement.sybase.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.jst.ws.cxf.feature" plugin-identifier="org.eclipse.jst.ws.cxf.core" url="features/org.eclipse.jst.ws.cxf.feature_1.1.300.v201701262158/" version="1.1.300.v201701262158">
+</feature>
+<feature id="org.eclipse.ecf.core.ssl.feature.source" url="features/org.eclipse.ecf.core.ssl.feature.source_1.1.0.v20170110-1317/" version="1.1.0.v20170110-1317">
+</feature>
+<feature id="org.eclipse.papyrus.uml.nattable.feature" url="features/org.eclipse.papyrus.uml.nattable.feature_4.0.0.201805210649/" version="4.0.0.201805210649">
+</feature>
+<feature id="de.uka.ipd.sdq.stoex.source.feature" url="features/de.uka.ipd.sdq.stoex.source.feature_2.2.0.201611171324/" version="2.2.0.201611171324">
+</feature>
+<feature id="org.eclipse.papyrus.views.validation.feature" url="features/org.eclipse.papyrus.views.validation.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.datatools.modelbase.feature" plugin-identifier="org.eclipse.datatools.modelbase.sql" url="features/org.eclipse.datatools.modelbase.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.jst.web_ui.feature" url="features/org.eclipse.jst.web_ui.feature_3.9.0.v201803221834/" version="3.9.0.v201803221834">
+</feature>
+<feature id="org.eclipse.wst.xsl.feature" plugin-identifier="org.eclipse.wst.xsl" url="features/org.eclipse.wst.xsl.feature_1.3.401.v201509231858/" version="1.3.401.v201509231858">
+</feature>
+<feature id="tools.vitruv.domains.sysml.feature.source" url="features/tools.vitruv.domains.sysml.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.rse.ssh" plugin-identifier="org.eclipse.rse.services.ssh" url="features/org.eclipse.rse.ssh_3.7.0.201704251225/" version="3.7.0.201704251225">
+</feature>
+<feature id="org.palladiosimulator.protocom.javaee.source.feature" url="features/org.palladiosimulator.protocom.javaee.source.feature_1.0.0.201709282233/" version="1.0.0.201709282233">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.feature.source" url="features/org.eclipse.ecf.filetransfer.feature.source_3.13.8.v20170715-2257/" version="3.13.8.v20170715-2257">
+</feature>
+<feature id="org.eclipse.papyrus.uml.xtext.integration.feature" url="features/org.eclipse.papyrus.uml.xtext.integration.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="edu.kit.ipd.sdq.commons.util.pcm.feature" url="features/edu.kit.ipd.sdq.commons.util.pcm.feature_1.2.0.201801311410/" version="1.2.0.201801311410">
+</feature>
+<feature id="org.eclipse.jst.enterprise_ui.feature" plugin-identifier="org.eclipse.jst.jee.ui" url="features/org.eclipse.jst.enterprise_ui.feature_3.9.3.v201803221418/" version="3.9.3.v201803221418">
+</feature>
+<feature id="org.eclipse.datatools.enablement.oda.feature" plugin-identifier="org.eclipse.datatools.enablement.oda.xml" url="features/org.eclipse.datatools.enablement.oda.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="de.uka.ipd.sdq.workflow.feature.mdsd" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.workflow.feature.mdsd_2.2.3.201709282207/" version="2.2.3.201709282207">
+</feature>
+<feature id="org.eclipse.jst.ws.jaxws.dom.feature" url="features/org.eclipse.jst.ws.jaxws.dom.feature_1.0.302.v201504272154/" version="1.0.302.v201504272154">
+</feature>
+<feature id="de.uka.ipd.sdq.dialogs.source.feature" url="features/de.uka.ipd.sdq.dialogs.source.feature_1.4.0.201611171324/" version="1.4.0.201611171324">
+</feature>
+<feature id="org.eclipse.jst.ws.axis2tools.feature" plugin-identifier="org.eclipse.jst.ws.axis2.ui" url="features/org.eclipse.jst.ws.axis2tools.feature_1.1.301.v201410160332/" version="1.1.301.v201410160332">
+</feature>
+<feature id="org.eclipse.recommenders.mylyn.rcp.feature" plugin-identifier="org.eclipse.recommenders.mylyn.rcp" url="features/org.eclipse.recommenders.mylyn.rcp.feature_2.5.2.v20180401-1226/" version="2.5.2.v20180401-1226">
+</feature>
+<feature id="org.palladiosimulator.mdsdprofiles.source.feature" url="features/org.palladiosimulator.mdsdprofiles.source.feature_1.0.1.201609191729/" version="1.0.1.201609191729">
+</feature>
+<feature id="org.eclipse.emf.validation" url="features/org.eclipse.emf.validation_1.11.0.201706061352/" version="1.11.0.201706061352">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_1.6.3.v20180329-0507/" version="1.6.3.v20180329-0507">
+</feature>
+<feature id="org.eclipse.jpt.jpa.eclipselink.feature" plugin-identifier="org.eclipse.jpt.jpa.eclipselink.branding" url="features/org.eclipse.jpt.jpa.eclipselink.feature_3.4.101.v201803161350/" version="3.4.101.v201803161350">
+</feature>
+<feature id="org.eclipse.datatools.enablement.ingres.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.ingres.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.emf.codegen" url="features/org.eclipse.emf.codegen_2.12.0.v20170609-0928/" version="2.12.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.papyrus.uml.search.feature" url="features/org.eclipse.papyrus.uml.search.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="edu.kit.ipd.sdq.commons.util.java.feature" url="features/edu.kit.ipd.sdq.commons.util.java.feature_1.2.0.201801311410/" version="1.2.0.201801311410">
+</feature>
+<feature id="de.uka.ipd.sdq.workflow.feature.core.source" url="features/de.uka.ipd.sdq.workflow.feature.core.source_2.2.3.201709282207/" version="2.2.3.201709282207">
+</feature>
+<feature id="org.palladiosimulator.reliability.source.feature" url="features/org.palladiosimulator.reliability.source.feature_1.0.0.201511051309/" version="1.0.0.201511051309">
+</feature>
+<feature id="org.palladiosimulator.recorderframework.source.feature" url="features/org.palladiosimulator.recorderframework.source.feature_2.1.1.201603031355/" version="2.1.1.201603031355">
+</feature>
+<feature id="de.uka.ipd.sdq.sensorframework.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.sensorframework.feature_4.0.0.201511050954/" version="4.0.0.201511050954">
+</feature>
+<feature id="org.eclipse.app4mc.examples" url="features/org.eclipse.app4mc.examples_0.8.2.201708030634/" version="0.8.2.201708030634">
+</feature>
+<feature id="org.eclipse.sirius.properties.feature" url="features/org.eclipse.sirius.properties.feature_5.1.1.201801311428/" version="5.1.1.201801311428">
+</feature>
+<feature id="org.eclipse.team.svn.m2e" url="features/org.eclipse.team.svn.m2e_4.0.0.I20160226-1700/" version="4.0.0.I20160226-1700">
+</feature>
+<feature id="org.eclipse.eclemma.feature" plugin-identifier="org.eclipse.eclemma.ui" url="features/org.eclipse.eclemma.feature_3.1.0.201804041601/" version="3.1.0.201804041601">
+</feature>
+<feature id="de.uka.ipd.sdq.dsexplore.feature" plugin-identifier="org.palladiosimulator.branding" url="features/de.uka.ipd.sdq.dsexplore.feature_4.0.1.201709290946/" version="4.0.1.201709290946">
+</feature>
+<feature id="org.eclipse.epp.package.common.feature" url="features/org.eclipse.epp.package.common.feature_4.7.3.20180405-1200/" version="4.7.3.20180405-1200">
+</feature>
+<feature id="org.eclipse.ecf.filetransfer.ssl.feature.source" url="features/org.eclipse.ecf.filetransfer.ssl.feature.source_1.1.0.v20170110-1317/" version="1.1.0.v20170110-1317">
+</feature>
+<feature id="org.eclipse.jst.web_userdoc.feature" url="features/org.eclipse.jst.web_userdoc.feature_3.6.0.v201712131442/" version="3.6.0.v201712131442">
+</feature>
+<feature id="org.eclipse.jst.server_adapters.feature" url="features/org.eclipse.jst.server_adapters.feature_3.2.400.v201711301708/" version="3.2.400.v201711301708">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.application.tooladapter.simucom.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.experimentautomation.application.tooladapter.simucom.feature_1.0.0.201709282123/" version="1.0.0.201709282123">
+</feature>
+<feature id="org.eclipse.papyrus.infra.viewpoints.feature" url="features/org.eclipse.papyrus.infra.viewpoints.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.0.300.v20150430-1836/" version="1.0.300.v20150430-1836">
+</feature>
+<feature id="tools.vitruv.applications.umljava.feature" url="features/tools.vitruv.applications.umljava.feature_0.1.0.201807181244/" version="0.1.0.201807181244">
+</feature>
+<feature id="org.eclipse.epp.mpc" plugin-identifier="org.eclipse.epp.mpc.ui" url="features/org.eclipse.epp.mpc_1.6.4.v20180214-1810/" version="1.6.4.v20180214-1810">
+</feature>
+<feature id="tools.vitruv.domains.sysml.feature" url="features/tools.vitruv.domains.sysml.feature_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.cft.server.ui.feature" plugin-identifier="org.eclipse.cft.server.branding.ui" url="features/org.eclipse.cft.server.ui.feature_1.0.10.v201709130027/" version="1.0.10.v201709130027">
+</feature>
+<feature id="org.eclipse.wst.ws_core.feature" url="features/org.eclipse.wst.ws_core.feature_3.7.200.v201710302117/" version="3.7.200.v201710302117">
+</feature>
+<feature id="org.eclipse.rse.dstore" plugin-identifier="org.eclipse.rse.services.dstore" url="features/org.eclipse.rse.dstore_3.7.0.201704251225/" version="3.7.0.201704251225">
+</feature>
+<feature id="org.modelversioning.emfprofile.feature" url="features/org.modelversioning.emfprofile.feature_1.0.0.201807210840/" version="1.0.0.201807210840">
+</feature>
+<feature id="org.eclipse.xtend.typesystem.emf.source" url="features/org.eclipse.xtend.typesystem.emf.source_2.2.0.v201605260315/" version="2.2.0.v201605260315">
+</feature>
+<feature id="org.eclipse.papyrus.uml.assistants.feature" url="features/org.eclipse.papyrus.uml.assistants.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.polarion.eclipse.team.svn.connector.svnkit18" url="features/org.polarion.eclipse.team.svn.connector.svnkit18_6.0.4.I20161211-1700/" version="6.0.4.I20161211-1700">
+</feature>
+<feature id="org.eclipse.mylyn.commons.repositories" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons.repositories_1.15.0.v20170411-1844/" version="1.15.0.v20170411-1844">
+</feature>
+<feature id="org.eclipse.rse.ftp" plugin-identifier="org.eclipse.rse.services.files.ftp" url="features/org.eclipse.rse.ftp_3.7.1.201704251225/" version="3.7.1.201704251225">
+</feature>
+<feature id="org.eclipse.jst.enterprise_core.feature" url="features/org.eclipse.jst.enterprise_core.feature_3.9.0.v201711022131/" version="3.9.0.v201711022131">
+</feature>
+<feature id="de.uka.ipd.sdq.sensorframework.visualisation.source.feature" url="features/de.uka.ipd.sdq.sensorframework.visualisation.source.feature_4.0.0.201511050954/" version="4.0.0.201511050954">
+</feature>
+<feature id="org.palladiosimulator.simulizar.source.feature" url="features/org.palladiosimulator.simulizar.source.feature_2.1.0.201709282222-8h_SEFbcPueBA312721262539/" version="2.1.0.201709282222-8h_SEFbcPueBA312721262539">
+</feature>
+<feature id="org.eclipse.emf.mwe2.launcher" url="features/org.eclipse.emf.mwe2.launcher_2.9.1.201705291011/" version="2.9.1.201705291011">
+</feature>
+<feature id="org.palladiosimulator.simulizar.reconfiguration.qvto.source.feature" url="features/org.palladiosimulator.simulizar.reconfiguration.qvto.source.feature_1.0.0.201709282222/" version="1.0.0.201709282222">
+</feature>
+<feature id="org.palladiosimulator.experimentanalysis.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.experimentanalysis.feature_1.0.0.201703011423/" version="1.0.0.201703011423">
+</feature>
+<feature id="tools.vitruv.domains.pcm.feature.source" url="features/tools.vitruv.domains.pcm.feature.source_0.2.0.201807181017/" version="0.2.0.201807181017">
+</feature>
+<feature id="org.eclipse.papyrus.uml.textedit.feature" url="features/org.eclipse.papyrus.uml.textedit.feature_2.0.0.201805210649/" version="2.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.rse.useractions" url="features/org.eclipse.rse.useractions_3.7.0.201704251225/" version="3.7.0.201704251225">
+</feature>
+<feature id="org.palladiosimulator.experimentautomation.source.feature" url="features/org.palladiosimulator.experimentautomation.source.feature_1.0.1.201709282123/" version="1.0.1.201709282123">
+</feature>
+<feature id="org.palladiosimulator.simulizar.reconfiguration.storydiagram.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.simulizar.reconfiguration.storydiagram.feature_1.0.0.201709282222/" version="1.0.0.201709282222">
+</feature>
+<feature id="org.eclipse.xtext.sdk" plugin-identifier="org.eclipse.xtext" url="features/org.eclipse.xtext.sdk_2.14.0.v20180523-0937/" version="2.14.0.v20180523-0937">
+</feature>
+<feature id="org.eclipse.papyrus.infra.discovery.feature" plugin-identifier="org.eclipse.papyrus.infra.discovery" url="features/org.eclipse.papyrus.infra.discovery.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.ecf.core.feature.source" url="features/org.eclipse.ecf.core.feature.source_1.4.0.v20170516-2248/" version="1.4.0.v20170516-2248">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.3.1.v20170928-1405/" version="1.3.1.v20170928-1405">
+</feature>
+<feature id="org.eclipse.jst.server_core.feature" url="features/org.eclipse.jst.server_core.feature_3.4.300.v201606081655/" version="3.4.300.v201606081655">
+</feature>
+<feature id="org.palladiosimulator.edp2.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.edp2.feature_1.0.0.201608091414/" version="1.0.0.201608091414">
+</feature>
+<feature id="org.eclipse.papyrus.uml.decoratormodel.feature" url="features/org.eclipse.papyrus.uml.decoratormodel.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.polarion.eclipse.team.svn.connector" url="features/org.polarion.eclipse.team.svn.connector_6.0.4.I20161211-1700/" version="6.0.4.I20161211-1700">
+</feature>
+<feature id="org.eclipse.papyrus.views.properties.feature" url="features/org.eclipse.papyrus.views.properties.feature_3.0.0.201805210649/" version="3.0.0.201805210649">
+</feature>
+<feature id="org.sonatype.m2e.mavenarchiver.feature" plugin-identifier="org.sonatype.m2e.mavenarchiver" url="features/org.sonatype.m2e.mavenarchiver.feature_0.17.2.201606141937-signed-20160830073346/" version="0.17.2.201606141937-signed-20160830073346">
+</feature>
+<feature id="edu.kit.ipd.sdq.commons.util.mdsdprofiles.feature.source" url="features/edu.kit.ipd.sdq.commons.util.mdsdprofiles.feature.source_1.2.0.201801311410/" version="1.2.0.201801311410">
+</feature>
+<feature id="org.eclipse.papyrus.uml.expressions.feature" url="features/org.eclipse.papyrus.uml.expressions.feature_1.0.0.201805210649/" version="1.0.0.201805210649">
+</feature>
+<feature id="org.eclipse.datatools.enablement.oracle.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.oracle.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.emf.databinding" url="features/org.eclipse.emf.databinding_1.4.0.v20170609-0928/" version="1.4.0.v20170609-0928">
+</feature>
+<feature id="org.eclipse.datatools.enablement.sap.feature" plugin-identifier="org.eclipse.datatools.enablement.finfo" url="features/org.eclipse.datatools.enablement.sap.feature_1.14.1.201712071719/" version="1.14.1.201712071719">
+</feature>
+<feature id="org.eclipse.wst.xml.xpath2.processor.feature" plugin-identifier="org.eclipse.wst.xml.xpath2" url="features/org.eclipse.wst.xml.xpath2.processor.feature_2.0.301.v201409111854/" version="2.0.301.v201409111854">
+</feature>
+<feature id="org.palladiosimulator.simulizar.reconfiguration.storydiagram.source.feature" url="features/org.palladiosimulator.simulizar.reconfiguration.storydiagram.source.feature_1.0.0.201709282222/" version="1.0.0.201709282222">
+</feature>
+<feature id="org.palladiosimulator.editors.commons.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.editors.commons.feature_2.1.1.201709282144/" version="2.1.1.201709282144">
+</feature>
+<feature id="org.palladiosimulator.measurementframework.feature" plugin-identifier="org.palladiosimulator.branding" url="features/org.palladiosimulator.measurementframework.feature_1.0.1.201606011729/" version="1.0.1.201606011729">
+</feature>
+<feature id="org.eclipse.oomph.setup.core" url="features/org.eclipse.oomph.setup.core_1.8.0.v20170531-0903/" version="1.8.0.v20170531-0903">
+</feature>
+</site>
+</config>

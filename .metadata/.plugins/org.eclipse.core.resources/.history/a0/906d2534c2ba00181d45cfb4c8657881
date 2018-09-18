@@ -1,0 +1,42 @@
+package kieker.extention;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+import kieker.monitoring.core.controller.IMonitoringController;
+import kieker.monitoring.core.controller.MonitoringController;
+
+public final class MonitoringFactory {
+	
+	public static IMonitoringController getMonitoringController() {
+		final IMonitoringController MONITORING_CONTROLLER = MonitoringController.getInstance();
+	    return 	MONITORING_CONTROLLER;
+	}
+	
+	public static CustomizedResponseTimeRecord  getInternalActionRecord(long id) {
+		return null;
+	}
+	
+	public static CustomizedResponseTimeRecord  getLoopActionRecord(long id) {
+		return null;
+	}
+	
+	public static CustomizedResponseTimeRecord  getBranchActionRecord(long id) {
+		return null;
+	}
+	
+	public static CustomizedResponseTimeRecord  getOperationRecord(long id) {
+		return null;
+	}
+	
+	
+	private static String getHostName() {
+		try {
+			String hostName = InetAddress.getLocalHost().getHostName();
+			return hostName;
+		} catch (UnknownHostException e) {
+			return null;
+		}
+	}
+
+}

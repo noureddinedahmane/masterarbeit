@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/MMM/src-gen" creationIcons="false" editDirectory="/MMM.edit/src-gen"
+    editorDirectory="/MMM.editor/src-gen" modelPluginID="MMM" modelName="MMM" rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container"
+    codeFormatting="true" importerID="org.eclipse.emf.importer.ecore" complianceLevel="8.0"
+    copyrightFields="false" operationReflection="true" importOrganizing="true">
+  <foreignModel>mMM.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="MMM" basePackage="ma.mm.model" disposableProviderFactory="true"
+      ecorePackage="mMM.ecore#/">
+    <genClasses ecoreClass="mMM.ecore#//Service">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Service/ID"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Service/executionTime"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Service/params"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Service/returnValue"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference mMM.ecore#//Service/internalaction"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference mMM.ecore#//Service/branch"/>
+    </genClasses>
+    <genClasses ecoreClass="mMM.ecore#//InternalAction">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//InternalAction/ID"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//InternalAction/executionTime"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference mMM.ecore#//InternalAction/loop"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference mMM.ecore#//InternalAction/branch"/>
+    </genClasses>
+    <genClasses ecoreClass="mMM.ecore#//Branch">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Branch/ID"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Branch/isExecuted"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference mMM.ecore#//Branch/internalaction"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference mMM.ecore#//Branch/loop"/>
+    </genClasses>
+    <genClasses ecoreClass="mMM.ecore#//Loop">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Loop/ID"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute mMM.ecore#//Loop/newAttribute"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference mMM.ecore#//Loop/internalaction"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference mMM.ecore#//Loop/branch"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>

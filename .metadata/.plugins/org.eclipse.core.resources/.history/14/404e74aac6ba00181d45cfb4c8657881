@@ -1,0 +1,35 @@
+package kieker.extention;
+
+import kieker.common.record.controlflow.OperationExecutionRecord;
+
+public class Test {
+
+	public void compute() throws InterruptedException {
+		Thread.sleep(2000);
+	}
+	
+	
+	public void execute() {
+		
+		try {
+			
+			final long tin = MonitoringFactory.getMonitoringController().getTimeSource().getTime();
+			
+			this.compute();
+			
+			final long tout = MonitoringFactory.getMonitoringController().getTimeSource().getTime();
+			
+			final CustomizedResponseTimeRecord e = MonitoringFactory.getOperationRecord(0, tin, tout, null, null)
+			
+			MonitoringFactory.getMonitoringController().newMonitoringRecord(e);
+			
+			
+			
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+}

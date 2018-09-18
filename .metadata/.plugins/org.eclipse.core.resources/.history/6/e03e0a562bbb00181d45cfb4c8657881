@@ -1,0 +1,56 @@
+package kieker.extention;
+
+import kieker.common.record.controlflow.OperationExecutionRecord;
+
+public class Test {
+
+	public void compute() throws InterruptedException {
+		Thread.sleep(2000);
+	}
+	
+	
+	public void execute() {
+		
+		try {
+			
+			final long tin = MonitoringFactory.getMonitoringController().getTimeSource().getTime();
+			
+			this.compute();
+			
+			final long tout = MonitoringFactory.getMonitoringController().getTimeSource().getTime();	
+			
+			final CustomizedResponseTimeRecord e = MonitoringFactory.getBranchActionRecord(0, 1);
+			//final CustomizedResponseTimeRecord e = MonitoringFactory.getLoopActionRecord(0, 3);
+			
+			MonitoringFactory.getMonitoringController().newMonitoringRecord(e);
+			
+			
+			
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+
+	public void execute_2(int[] test) {
+		
+		int counter = 0;
+		for(int i: test) {
+			counter++;
+			//external call
+		}	
+	    final CustomizedResponseTimeRecord e = MonitoringFactory.getLoopActionRecord(0, counter);	
+		MonitoringFactory.getMonitoringController().newMonitoringRecord(e);		
+	}
+	
+	public void execute_3(boolean bool) {
+		
+		if(bool) {
+			
+		}
+		
+	}
+	
+}

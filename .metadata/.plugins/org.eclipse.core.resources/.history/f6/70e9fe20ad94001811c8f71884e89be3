@@ -1,0 +1,26 @@
+package tools.vitruv.domains.mm
+
+import tools.vitruv.framework.domains.AbstractVitruvDomain
+import org.eclipse.emf.ecore.EPackage
+import java.util.Set
+import tools.vitruv.framework.tuid.TuidCalculatorAndResolver
+
+class MmmDomain extends AbstractVitruvDomain{
+	
+	public static final String METAMODEL_NAME = "Mmm";
+	
+	package new() {
+		super(METAMODEL_NAME, ROOT_PACKAGE, generateTuidCalculator(), FILE_EXTENSION);
+	}
+	
+	def protected static TuidCalculatorAndResolver generateTuidCalculator() {
+		return new AttributeTuidCalculatorAndResolver(METAMODEL_NAMESPACE, 
+			#[AmaltheaPackage.eINSTANCE.INamedElement_Name.name]
+		);
+	}
+	
+	override getBuilderApplicator() {
+		throw new UnsupportedOperationException("TODO: auto-generated method stub")
+	}
+	
+}

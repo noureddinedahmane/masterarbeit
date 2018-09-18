@@ -1,0 +1,23 @@
+package kieker.extention;
+
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        
+    	System.out.println("starting....");
+    	
+    	Test test = new Test();
+    	
+    	System.out.println(test.execute_2());
+    	
+    	System.out.println("Done!");
+    }
+}

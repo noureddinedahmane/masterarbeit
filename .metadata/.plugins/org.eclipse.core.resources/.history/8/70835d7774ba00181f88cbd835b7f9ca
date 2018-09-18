@@ -1,0 +1,53 @@
+package sourcecode.instrumentation.instrumentationhelper;
+
+import java.util.List;
+
+import org.palladiosimulator.pcm.seff.AbstractAction;
+import org.palladiosimulator.pcm.seff.BranchAction;
+import org.palladiosimulator.pcm.seff.EmitEventAction;
+import org.palladiosimulator.pcm.seff.ExternalCallAction;
+import org.palladiosimulator.pcm.seff.InternalAction;
+import org.palladiosimulator.pcm.seff.InternalCallAction;
+import org.palladiosimulator.pcm.seff.LoopAction;
+import org.palladiosimulator.pcm.seff.ResourceDemandingBehaviour;
+
+public class SourceCodeInstrumentation {
+	
+	
+	public void execute(final ResourceDemandingBehaviour seff) {
+		
+		final List<AbstractAction> abstractActions = seff.getSteps_Behaviour();
+		
+		for(AbstractAction abstractAction: abstractActions) {
+			
+			if (abstractAction instanceof ExternalCallAction) {
+               
+				// ...
+            }
+			else if (abstractAction instanceof InternalCallAction) {
+                InternalAction internalAction = (InternalAction) abstractAction;
+                
+                
+				// ...
+            } 
+			else if (abstractAction instanceof InternalAction) {
+                
+				// ...
+            } 
+			else if (abstractAction instanceof BranchAction) {
+               
+				// ...
+            } 
+			else if (abstractAction instanceof LoopAction) {
+
+				// ...
+            }
+			else if (abstractAction instanceof EmitEventAction) {
+                
+				// ...
+            } 
+		}
+	}
+	
+	
+}

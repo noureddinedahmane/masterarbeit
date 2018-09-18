@@ -1,0 +1,20 @@
+package sourcecode.instrumentation.instrumentationhelper;
+
+import java.util.List;
+
+import org.palladiosimulator.pcm.seff.AbstractAction;
+import org.palladiosimulator.pcm.seff.ResourceDemandingBehaviour;
+
+public class SourceCodeInstrumentation {
+	
+	public void execute(final ResourceDemandingBehaviour seff) {
+		
+		final List<AbstractAction> abstractActions = seff.getSteps_Behaviour();
+		
+		 for (int i = 0; i < abstractActions.size(); i++) {
+			 
+		 }
+	}
+	
+	
+}

@@ -1,0 +1,13 @@
+package com.test
+
+import tools.vitruv.framework.domains.VitruvDomainProvider
+
+class TestDomainProvider implements VitruvDomainProvider<TestDomain>{
+	
+	private static var TestDomain instance;
+	
+	override getDomain() {
+		throw new UnsupportedOperationException("TODO: auto-generated method stub")
+	}
+	
+}

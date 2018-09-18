@@ -1,0 +1,14 @@
+package tools.vitruv.domains.mm
+
+import tools.vitruv.framework.domains.VitruvDomainProvider
+
+class MmmDomainProvider  implements VitruvDomainProvider<MmmDomain>{
+	
+	override public MmmDomain getDomain() {
+		if (instance === null) {
+			instance = new AmaltheaDomain();
+		}
+		return instance;
+	}
+	
+}

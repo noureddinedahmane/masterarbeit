@@ -1,0 +1,38 @@
+package kieker.extention;
+
+
+public class Test {
+
+	public void compute() throws InterruptedException {
+		Thread.sleep(2000);
+	}
+	
+	
+	public void execute() {
+		
+		try {
+			
+			final long tin = CustomizedResponseTimeRecord.getMonitoringController().getTimeSource().getTime();
+			
+			this.compute();
+			
+			final long tout = CustomizedResponseTimeRecord.getMonitoringController().getTimeSource().getTime();
+			
+			final OperationExecutionRecord e = new OperationExecutionRecord(
+					"public void " + this.catalog.getClass().getName() + ".getBook(boolean)",
+					OperationExecutionRecord.NO_SESSION_ID,
+					OperationExecutionRecord.NO_TRACE_ID,
+					tin, tout, "myHost",
+					OperationExecutionRecord.NO_EOI_ESS,
+					OperationExecutionRecord.NO_EOI_ESS);
+			
+			
+			
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+}
