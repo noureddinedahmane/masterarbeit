@@ -804,3 +804,27 @@
 2018-09-18 14:16:54,285 [Worker-26099] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\extention\src\main\resources
 2018-09-18 14:16:54,287 [Worker-26099] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-18 14:16:54,288 [Worker-26099] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\extention\src\test\resources
+2018-09-25 13:52:47,077 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-09-25 13:53:02,849 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sdq.kit:blockrefactoring:0.0.1-SNAPSHOT @ C:\Users\nd\Desktop\Masterarbeit\MA2\blockrefactoring\pom.xml.
+2018-09-25 13:53:03,391 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kieker:extention:0.0.1-SNAPSHOT @ C:\Users\nd\Desktop\Masterarbeit\MA2\extention\pom.xml.
+2018-09-25 13:53:03,450 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kieker:extetion:0.0.1-SNAPSHOT @ C:\Users\nd\Desktop\Masterarbeit\MA2\extetion\pom.xml.
+2018-09-25 13:53:16,206 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-25 13:53:16,206 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\blockrefactoring\src\main\resources
+2018-09-25 13:53:16,208 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-25 13:53:16,209 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\blockrefactoring\src\test\resources
+2018-09-25 13:53:16,820 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-25 13:53:16,820 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\extention\src\main\resources
+2018-09-25 13:53:16,823 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-25 13:53:16,823 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\extention\src\test\resources
+2018-09-25 13:53:16,878 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-25 13:53:16,878 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\extetion\src\main\resources
+2018-09-25 13:53:16,880 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-25 13:53:16,880 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nd\Desktop\Masterarbeit\MA2\extetion\src\test\resources
+2018-09-25 13:56:43,020 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @254358ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-09-25 13:56:43,247 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T22:27:37+01:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-09-25 13:56:43,281 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-09-25 13:56:43,281 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-09-25 13:56:43,283 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-09-25 13:56:43,330 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3d9b6a46{/help,null,AVAILABLE}
+2018-09-25 13:56:43,366 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3eafc17a{HTTP/1.1,[http/1.1]}{127.0.0.1:61193}
+2018-09-25 13:56:43,366 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @254704ms
